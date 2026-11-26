@@ -12,3 +12,8 @@ FROM tecnico;
 
 SELECT *
 FROM servico;
+
+-- Listar todas as ordens de serviço
+
+SELECT *
+FROM ordemservico;

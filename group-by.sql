@@ -1,3 +1,5 @@
+-- Quantidade de ordens por estado
+
 SELECT
     Estado,
     COUNT(*) AS Total

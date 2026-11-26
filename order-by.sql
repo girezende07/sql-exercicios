@@ -4,7 +4,7 @@ SELECT *
 FROM cliente
 ORDER BY Nome;
 
--- Serviços por valor
+-- Serviços do mais caro para o mais barato
 
 SELECT *
 FROM servico
